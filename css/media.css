@@ -1,0 +1,11 @@
+@media (min-width:320px) {
+    .promo__title {
+        font-size: 22px;
+    }
+}
+
+@media (min-width:768px) {
+    .promo__title {
+        font-size: 28px;
+    }
+}
